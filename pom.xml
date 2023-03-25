@@ -39,6 +39,8 @@
 		
 		
 		<!-- MYSQL driver dependency -->
+		<!-- MYSQL driver dependencyadding -->
+
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
